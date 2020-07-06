@@ -4,14 +4,15 @@
 
 export const environment = {
   production: false,
-  firebase:  {
-    apiKey: 'AIzaSyAKlEX5a8PQaadYNSrohqfl33O37Kjkv1Y',
-    authDomain: 'angular-voxer.firebaseapp.com',
-    databaseURL: 'https://angular-voxer.firebaseio.com',
-    projectId: 'angular-voxer',
-    storageBucket: 'angular-voxer.appspot.com',
-    messagingSenderId: '122050526979',
-    appId: '1:122050526979:web:529304dce5ffca7a'
+  firebase: {
+    apiKey: "AIzaSyD6OrrHuWRcCRLQ-Vb9GZDi1WHJHRYfnqA",
+    authDomain: "peremoha-lifeos.firebaseapp.com",
+    databaseURL: "https://peremoha-lifeos.firebaseio.com",
+    projectId: "peremoha-lifeos",
+    storageBucket: "peremoha-lifeos.appspot.com",
+    messagingSenderId: "453585104392",
+    appId: "1:453585104392:web:906e1c335d26fc6dd32bbd",
+    measurementId: "G-PZS8E3QM4L"
   }
 };
 
